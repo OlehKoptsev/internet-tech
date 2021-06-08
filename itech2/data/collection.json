@@ -1,0 +1,73 @@
+[
+  {
+    "_id": {
+      "$oid": "5ec449917c5356127c93a8a8"
+    },
+    "name": "CITY IT",
+    "author": "Artem",
+    "year": 2020,
+    "publisher": "Kharkov",
+    "quantity": 128,
+    "ISBN": "123-48-54",
+    "literate": "Book",
+    "Resourse": "DVD"
+  },
+  {
+    "_id": {
+      "$oid": "5ec449bc7c5356127c93a8a9"
+    },
+    "name": "Node.js",
+    "author": "Arthur",
+    "year": 2015,
+    "publisher": "Kiev",
+    "quantity": 100,
+    "ISBN": "8654-7564-55",
+    "literate": "Book",
+    "Resourse": [
+      "CD",
+      "Website"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ec449be7c5356127c93a8aa"
+    },
+    "name": "Pyhon",
+    "author": [
+      "Ivanov",
+      "Kristi"
+    ],
+    "year": 2017,
+    "publisher": "Moscow",
+    "quantity": 999,
+    "ISBN": "982-782-487",
+    "literate": "Book"
+  },
+  {
+    "_id": {
+      "$oid": "5ec449c17c5356127c93a8ab"
+    },
+    "name": "METRO_GOST",
+    "author": "Artem",
+    "year": 1997,
+    "publisher": "Kharkov",
+    "quantity": 313,
+    "ISBN": "874-54-88",
+    "literate": "Book"
+  },
+  {
+    "_id": {
+      "$oid": "5ec449d27c5356127c93a8ac"
+    },
+    "name": "Everyday",
+    "literate": "Newspaper"
+  },
+  {
+    "_id": {
+      "$oid": "5ec449d47c5356127c93a8ad"
+    },
+    "name": "Fashion.exe",
+    "year": 2019,
+    "literate": "Journal"
+  }
+]
